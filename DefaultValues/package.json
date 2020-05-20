@@ -1,0 +1,14 @@
+{
+  "name": "defaultvalues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "setupDefault.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patricia Centenera Béjar",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.2.6"
+  }
+}
