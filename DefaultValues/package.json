@@ -4,6 +4,7 @@
   "description": "",
   "main": "setupDefault.js",
   "scripts": {
+    "start": "node setupDefault.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Patricia Centenera Béjar",
